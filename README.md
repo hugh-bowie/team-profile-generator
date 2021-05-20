@@ -4,7 +4,7 @@ teamProfileGenerator
 
 # Description
 
-This is a command-line application that accepts user input.<br>
+This is a command-line application that accepts user input.<br><br>
 When prompted for my team members and their information,
  an HTML file is generated that displays a nicely formatted team roster based on user input.<br>
 When I click on an email address in the HTML, 
