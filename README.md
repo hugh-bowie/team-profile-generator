@@ -3,7 +3,7 @@
 teamProfileGenerator
 
 # Description
-
+<p>
 This is a command-line application that accepts user input.<br><br>
 When prompted for my team members and their information,
  an HTML file is generated that displays a nicely formatted team roster based on user input.<br><br>
@@ -21,5 +21,5 @@ When I select the intern option,
  I am prompted to enter the intern’s name, ID, email, and school, and I am taken back to the menu.<br><br>
 When I decide to finish building my team,
  I exit the application, and the HTML is generated.<br><br>
- 
+ </p>
 # Table of Contents
