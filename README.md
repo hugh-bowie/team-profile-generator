@@ -16,10 +16,10 @@ This app generates a webpage displaying your teams info, including their email a
 * [Questions](#Questions)
 
 ## Installation
-from command line:
-git clone https://github.com/hugh-bowie/teamProfileGenerator.git
-npm init
-npm install inquirer jest
+from command line:<br>
+git clone https://github.com/hugh-bowie/teamProfileGenerator.git<br>
+npm init<br>
+npm install inquirer jest<br>
 
 
 <p>
