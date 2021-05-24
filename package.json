@@ -1,0 +1,22 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "generates a static page for your team",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugh-bowie/teamProfileGenerator.git"
+  },
+  "author": "hb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hugh-bowie/teamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/hugh-bowie/teamProfileGenerator#readme"
+}
