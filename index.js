@@ -5,7 +5,7 @@ const Employee = require('./lib/Employee.js');
 const Manager = require('./lib/Manager');
 const Engineer = require('./lib/Engineer');
 const Intern = require('./lib/Intern.js');
-
+const generateTemplates = require('./src/template.js')
 // empty array to be filled by input responses
 const team = [];
 
