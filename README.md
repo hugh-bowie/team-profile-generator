@@ -1,8 +1,10 @@
-# Title
+# Team Profile Generator
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-teamProfileGenerator
+## Description
+This app generates a webpage displaying your teams info, including their email addresses and GitHub profiles.
 
-# Description
+
 <p>
 This is a command-line application that accepts user input.<br><br>
 When prompted for my team members and their information,
