@@ -32,7 +32,7 @@ npm install inquirer jest<br>
 from the command line: `node index.js`, input members of the team and the requested information.  Once complete a webpage will be generated.
 
 
-## License:
+## License
 This app is licensed under the MIT license.
 
 ## Walkthrough Video
