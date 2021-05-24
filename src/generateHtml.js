@@ -2,7 +2,7 @@ function createEmployeeCard(employee, classes, text) {
 	return `          <div class="card employee-card">
             <div class="card-header">
               <h2 class="card-title">${employee.getName()}</h2>
-              <h3 class="card-title"><i class="${classes} mr-2"></i>${employee.getRole()}</h3>
+              <h3 class="card-title"><i class="${classes}"></i>${employee.getRole()}</h3>
             </div>
             <div class="card-body">
               <ul class="list-group">
@@ -47,7 +47,8 @@ function createEmployeeCards(employees) {
 }
 
 function generateHtml(employees) {
-	return ` <!DOCTYPE html>
+	return `
+  <!DOCTYPE html>
     <html lang="en">
       <head>
         <meta charset="UTF-8" />
@@ -65,7 +66,7 @@ function generateHtml(employees) {
         <!-- Font Awesome CSS -->
         <link 
           rel="stylesheet" 
-          href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/fontawesome.min.css" 
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" 
           integrity="sha384-wESLQ85D6gbsF459vf1CiZ2+rr+CsxRY0RpiF1tLlQpDnAgg6rwdsUF1+Ics2bni" 
           crossorigin="anonymous"
         />
