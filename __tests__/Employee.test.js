@@ -11,5 +11,5 @@ test('ID is any number', () => {
 })
 
 test('email is valid', () => {
-    expect(testEmployee.email).toEqual(expect.stringContaining('@'));
+    expect(testEmployee.email).toEqual(expect.stringContaining('@')); 
 })
