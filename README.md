@@ -21,7 +21,7 @@ git clone https://github.com/hugh-bowie/teamProfileGenerator.git<br>
 npm init<br>
 npm install inquirer jest<br>
 
-![Screenshots](.assets/demo.png)
+![Screenshots](./demo.png)
 
 <p>
 This is a command-line application that accepts user input.<br><br>
