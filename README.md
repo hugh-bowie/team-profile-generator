@@ -4,6 +4,23 @@
 ## Description
 This app generates a webpage displaying your teams info, including their email addresses and GitHub profiles.
 
+## Table of Contents 
+* [Installation](#Installation)
+
+* [Usage](#Usage)
+
+* [License](#License)
+
+* [Repository](#Repository)
+
+* [Questions](#Questions)
+
+## Installation
+from command line:
+git clone https://github.com/hugh-bowie/teamProfileGenerator.git
+npm init
+npm install inquirer jest
+
 
 <p>
 This is a command-line application that accepts user input.<br><br>
