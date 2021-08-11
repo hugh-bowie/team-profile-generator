@@ -78,7 +78,7 @@ THEN I exit the application, and the HTML is generated
 
 ## ▶️ Useage
 
-`node index.js`
+`npm run start`
 
 ## 🎪 Testing
 
