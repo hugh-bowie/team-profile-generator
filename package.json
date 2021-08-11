@@ -7,7 +7,8 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "jest --verbose test/*"
+    "test": "jest --verbose test/*",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -21,6 +22,7 @@
   "homepage": "https://github.com/hugh-bowie/teamProfileGenerator#readme",
   "keywords": [],
   "dependencies": {
+    "email-validator": "^2.0.4",
     "inquirer": "^8.1.2",
     "jest": "^27.0.6"
   }
