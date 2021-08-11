@@ -26,7 +26,7 @@ development portfolio.
 
 ## 🎬 Video Walkthrough
 
-![team-profile-generator](./src/assets/images/team-profile-generator.gif)
+![team-profile-generator](./src/assets/images/team-profile-generator.gif)<br>
 ![team-profile-generator](./src/assets/images/team-profile-generator.mp4)
 
 ## 🃏 User Story
@@ -93,4 +93,4 @@ Tests included for all four classes: `Employee Manager Engineer and Intern`
 ## ⁉️ Questions
 
 Contact me with any questions:
-[hughbowie@me.com](mailto:hughbowie@me.com)<br />[https://github.com/hugh-bowie](https://github.com/hugh-bowie)<br />
+[hughbowie@me.com](mailto:hughbowie@me.com)<br />[My GitHub](https://github.com/hugh-bowie)<br />
