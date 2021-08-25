@@ -21,8 +21,6 @@
 
 A Node.js command-line application that takes in information about employees and generates an HTML webpage.
 
-#### [react-portfolio.herokuapp](https://react-portfolio-hb.herokuapp.com/#/portfolio)
-
 ## 🎬 Video Walkthrough
 
 ![team-profile-generator](./src/assets/images/team-profile-generator.gif)<br>
