@@ -23,7 +23,7 @@ A Node.js command-line application that takes in information about employees and
 
 ## 🎬 Video Walkthrough
 
-![team-profile-generator](./assets/images/walkthrough.gif)<br>
+![team-profile-generator](./assets/walkthrough.gif)
 
 ## 🃏 User Story
 
